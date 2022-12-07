@@ -1433,6 +1433,11 @@ input, select, textarea {
 			#header > * {
 				margin-top: 2rem;
 			}
+						#header .logo i:before {
+				font-size: 3rem;
+				line-height: 4.6rem;
+			}
+
 
 				#header > *:before {
 					top: calc(-2rem - 1px);
